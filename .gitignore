@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.so
+.env
+reports/
+*.log
+*.db
+*.sql
+*.zip
+*.tar.gz
+*.html
+*.json
+*.txt
